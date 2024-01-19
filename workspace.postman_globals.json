@@ -1,0 +1,15 @@
+{
+	"id": "177893ca-2348-464d-8775-61da1616745c",
+	"values": [
+		{
+			"key": "newName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-01-19T10:03:21.456Z",
+	"_postman_exported_using": "Postman/10.22.3"
+}
